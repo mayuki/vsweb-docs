@@ -116,7 +116,7 @@ It enables building code analysis tools with the same APIs that are
 used by Visual Studio.
 -->
 
-Roslyn は Visual Studio が利用しているのと同様のAPIを利用してコード解析ツールを作ることを可能にします。
+Roslyn は Visual Studio が利用しているものと同様の API を利用してコード解析ツールを作ることを可能にします。
 
 ## Environment awareness
 <!--
@@ -124,7 +124,7 @@ The app specific configuration defaults to have environment settings override
 the configuration in the projects.
 -->
 
-環境設定にあるアプリケーション固有の既定の構成はプロジェクトでの構成を上書きできます。
+環境設定にあるアプリケーション固有の既定の構成でプロジェクトでの構成を上書きできます。
 
 ![ASP.NET configuration](_assets/aspnet-configuration.png)
 
