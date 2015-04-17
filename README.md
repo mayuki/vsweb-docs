@@ -1,5 +1,6 @@
 ## Visual Studio features for web developers (Japanese)
 
+Website: [vsweb-ja.azurewebsites.net/](http://vsweb-ja.azurewebsites.net/)
 <!--
 [![Build status](https://ci.appveyor.com/api/projects/status/3s1bavm412p4bwp6?svg=true)](https://ci.appveyor.com/project/madskristensen/vsweb-docs)
 
