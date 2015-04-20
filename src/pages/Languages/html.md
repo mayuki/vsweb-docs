@@ -1,40 +1,70 @@
 <properties
 	pageTitle="HTML"
-	description="The HTML editor was completely rewritten in Visual Studio 2013 to create a foundation for a great HTML 5 editing experience that is constantly getting better."
+	_description="The HTML editor was completely rewritten in Visual Studio 2013 to create a foundation for a great HTML 5 editing experience that is constantly getting better."
+	description="HTML5 の素晴らしい編集体験の基礎を作るために Visual Studio 2013 で HTML エディターは完全に書き直され、絶え間なく改善しています。"
 	slug="html"
 	order="200"
 	keywords="html, intellisense, html5, xhtml, autocomplete"
 />
 
 ## Auto-completion
+<!--
 The HTML editor's up-to-date web standards definitions provide accurate and fast [IntelliSense](http://go.microsoft.com/fwlink/?LinkId=532997) for all elements and attributes. For attributes, IntelliSense lists available values as well as names.
+-->
+
+HTML エディタの持つ最新の Web 標準の定義は全ての要素や属性の [IntelliSense](http://go.microsoft.com/fwlink/?LinkId=532997) を的確で素早く提供します。
 
 ![Basic auto completion](_assets/html-auto-completion.gif)
 
 ## Match end-tag
+<!--
 Never let your tags get out of sync again when editing. When you edit a tag, Visual Studio automatically updates its corresponding begin or end tag to keep them in sync.
+-->
+
+編集時にタグの同期がとれていないことはもうありません。タグを編集すると Visual Studio は自動的に対応する開始、終了タグの同期をとります。
 
 ![Match end-tag](_assets/html-match-end-tag.gif)
 
 ## Classes and IDs
+<!--
 It's easy to forget the names of CSS classes and IDs, so Visual Studio IntelliSense lists them for you as you type. You get all of the classes and IDs that are defined in the current document or in any stylesheet in your project. For example, if you use Bootstrap, IntelliSense shows all of the available Bootstrap classes.
+-->
+
+CSS クラスや ID といった名前を忘れてしまっても大丈夫です。文字を打ち込めば Visual Studio IntelliSense は一覧を表示します。現在のドキュメントやプロジェクトに含まれているスタイルシートで定義されている、すべてのクラスや ID を得ることができます。
+例えば、もし Bootstrap を使っていれば IntelliSense は 利用可能な Bootstrap のクラスをすべて表示します。
 
 ![Classes and IDs](_assets/html-classes-and-ids.gif)
 
 ## Dynamic data attributes
+<!--
 When using `data-*` attributes in HTML 5 to store custom data, it can be difficult to remember the various attribute names and their values. Visual Studio automatically keeps track of your `data-*` attributes and gives IntelliSense for both the attribute name and previously used values.
+-->
+
+カスタムなデータを格納するために HTML5 の `data-*` 属性を利用する場合、属性名の種類とその値を思い出すのが難しいことがあります。Visual Studio は自動的に `data-*` 属性を追跡し続け、属性名と以前利用した値を IntelliSense に表示します。
 
 ![Dynamic attriute values](_assets/html-dynamic-attribute-values.gif)
 
 ## Wrap with tag
+<!--
 Be more productive by using this handy shortcut to wrap selected text with any element of your choice.
+-->
 
+お手軽なショートカットで選択されたテキストと要素を包むことができ、より生産性を高められます。
+
+<!--
 Simply hit `Shift+Alt+W` to wrap the selection.
+-->
+
+選択したものを包むには単純に `Shift+Alt+W` を押してください。
 
 ![Wrap with tag](_assets/html-wrap-with-tag.gif)
 
 ## Snippets
+<!--
 Snippets provide a shortcut for adding common elements to a page. Visual Studio has built-in snippets for `<video>`, `<audio>`, `<picture>`, and many more. You can create your own snippets as well.
+-->
+
+スニペットはページに共通の要素を追加するショートカットを提供します。Visual Studio は `<video>` や `<audio>`、 `<picture>` や他のたくさんのビルトインのスニペットを持っています。もちろん自分自身でスニペットを作ることもできます。
 
 ![Snippets](_assets/html-snippets.gif)
 
