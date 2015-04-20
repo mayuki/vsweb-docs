@@ -69,14 +69,14 @@ view scaffolding, client- and server-side validation and more.
 -->
 
 ASP.NET アプリケーションにおいて利用されるモデルは注釈をつけることでデータベーススキーマ生成や
-ビューのスキャフォールディング、クライアント/サーバーサイドでのバリデーション、などのような幅広い体験をもたらします。
+ビューのスキャフォールディング、クライアント/サーバーサイドでのバリデーション、などのような幅広い体験を提供します。
 
 ### Model annotations
 <!--
 Annotate your models to generate the database schema and scaffold views.
 -->
 
-モデルにデータベーススキーマとビューのスキャフォールドのために注釈をつけます。
+モデルにデータベーススキーマとビューのスキャフォールドのために注釈をつけることができます。
 
 ![ASP.NET model annotations](_assets/aspnet-model-annotations.gif)
 
@@ -135,7 +135,7 @@ full fidelity to the logic need for any web app.
 -->
 
 ID (Identity)やルーティング、データベースのどんな構成でも、コードベースとなることで
-どんな Web アプリケーションにも必要なロジックへの完全な忠実さを与えます。
+どんな Web アプリケーションにも必要なロジックへの完全な忠実さを提供します。
 
 ![ASP.NET code based configuration](_assets/aspnet-code-configuration.png)
 
