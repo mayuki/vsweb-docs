@@ -69,39 +69,67 @@ Snippets provide a shortcut for adding common elements to a page. Visual Studio 
 ![Snippets](_assets/html-snippets.gif)
 
 ## File picker
+<!--
 The file picker gives you an easy way to add references to files in your project. It's smart enough to know what files you would typically use for `<img>`, `<a>`, `<script>`, `<source>` and `<link>` elements, so it automatically filters the list to show only those file types.
+-->
+
+ファイルピッカーはプロジェクトのファイルに参照を追加する簡単な方法を提供します。`<img>`, `<a>`, `<script>`, `<source>` や `<link>` 要素でよく使われるファイルについてよく知っているので、それらのファイルタイプのみをフィルターして一覧に表示します。
 
 ![File picker](_assets/html-file-picker.gif)
 
 ## HTML 5 Microdata
+<!--
 It's important to be very accurate when dealing with 
 [Microdata](http://html5doctor.com/microdata/). Visual Studio helps you avoid typos by giving IntelliSense for the most common Microdata vocabularies.
+-->
+
+[Microdata](http://html5doctor.com/microdata/) を扱うのであれば正確であることが重要になります。Visual Studio は IntelliSense を通して多くの一般的な Microdata のボキャブラリーを提供し、誤字を避ける手助けをします。
 
 ![HTML 5 Microdata](_assets/html-microdata.gif)
 
 ## ARIA attributes
+<!--
 IntelliSense lists the choices for ARIA landmarks such as the `role` attribute, as well as for `aria-*` attributes.
+-->
+
+IntelliSense は `role` 属性のような ARIA ランドマークの選択肢を表示します。もちろん `aria-*` 属性もです。
 
 ![ARIA attributes](_assets/html-aria.gif)
 
 ## HTML entities
+<!--
 Get quick and easy access to all those HTML entities that are so hard to remember.
+-->
+
+思い出すことが難しいようなあらゆるHTMLの文字実体参照にサッっと簡単にアクセスできます。
 
 ![Entities](_assets/html-entities.gif)
 
 ## Template syntax
+<!--
 Whether you use Mustache, Handlebars, Angular, or any other double-curly based template language, Visual Studio gives you nice colorization.
+-->
+
+Mustache や Handlebars、 Angular であっても、その他の二重ブレース({{, }})を元にしたテンプレート言語であっても、Visual Studio はよい感じの色付けを提供します。
 
 ![Template syntax](_assets/html-template-syntax.gif)
 
 ## Glyph icons
+<!--
 See the actual glyph icons from all the major CSS icon libraries, including Bootstrap, Font Awesome, Foundation, Ionicons and IcoMoon using the
 [Glyphfriend](https://visualstudiogallery.msdn.microsoft.com/5fd24afb-b3b2-4cec-9b03-1cfcec6123aa) extension.
+-->
+
+Bootstrap、Font Awesome、Foundation、Ionicons や IcoMoon といった主要な CSS アイコンライブラリに含まれているグリフアイコンの実体を [Glyphfriend](https://visualstudiogallery.msdn.microsoft.com/5fd24afb-b3b2-4cec-9b03-1cfcec6123aa) 拡張を使うことで見ることができます。
 
 ![Glyphfriend](_assets/html-glyphfriend.png)
 
 ## Quick actions
+<!--
 Light bulbs show up wherever Visual Studio finds opportunities to provide helpers that give you hints about how to solve problems or refactor.
+-->
+
+電球マークによって Visual Studio が問題やリファクタリングのヒントを表示するヘルパーを提供できそうだということを知らせます。
 
 ![Quick action](_assets/html-quick-action.gif)
 
